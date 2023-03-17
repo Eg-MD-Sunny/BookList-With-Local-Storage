@@ -1,0 +1,3 @@
+input:submit              ------>  <input type="submit" value="">
+table.table.table-strip   ------>  <table class="table table-strip>
+tbody#book-list           ------>  <tbody id="book-list></tbody>
